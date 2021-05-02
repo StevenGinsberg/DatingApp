@@ -1,4 +1,4 @@
 This app can be viewed here
-http://datingappone.herokuapp.com/
+https://dappdemo.azurewebsites.net/
 
 
